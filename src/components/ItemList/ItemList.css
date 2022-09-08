@@ -1,0 +1,11 @@
+
+.estilos{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:blue;
+    width: 100%;
+    height: auto;
+    padding: 15px;
+}
